@@ -73,7 +73,6 @@ public class Main {
         student.showInfo();
     }
 
-    /*
     public static void doSomething(model.Person person) {
         if (person instanceof model.Student) {
             System.out.println("I am a model.Student!!! " + person.getmName());
@@ -82,5 +81,5 @@ public class Main {
         } else if (person instanceof model.Principal) {
             System.out.println("I am a model.Principal!!! " + person.getmName());
         }
-    }*/
+    }
 }
