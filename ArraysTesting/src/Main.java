@@ -42,9 +42,9 @@ public class Main {
         }
 
         System.out.println("/********** USING COLLECTORS *********/");
-//        Collections.sort(nameList);
-//        for (Object item : nameList) {
-//            System.out.println(item.toString());
-//        }
+        //Collections.sort(nameList);
+        for (Object item : nameList) {
+            System.out.println(item.toString());
+        }
     }
 }

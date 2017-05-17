@@ -1,0 +1,3 @@
+The Asteroid is:
+Key: ast5
+Value: {AST5=Mass: 1698.0}
